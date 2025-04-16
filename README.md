@@ -10,3 +10,11 @@ http://localhost:8888/laravel-posting-app/public/login
 
 s6u6s024@gmail.com
 01rlcm18
+
+## git remote
+
+Herokuにデプロイする
+git push heroku main
+
+GitHubにプッシュする
+git push origin main
